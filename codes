@@ -8,9 +8,7 @@ import matplotlib.pyplot as plt
 
 students = []
 
-# -------------------------------
 # 1. Student Registration
-# -------------------------------
 
 def register_student():
 
